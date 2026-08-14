@@ -1,4 +1,26 @@
 [
-  "demo-novel.txt",
-  "让仙门再次伟大.txt"
+  {
+    "title": "大道争锋",
+    "dir": "大道争锋"
+  },
+  {
+    "title": "盖世双谐",
+    "dir": "盖世双谐"
+  },
+  {
+    "title": "没钱修什么仙",
+    "dir": "没钱修什么仙"
+  },
+  {
+    "title": "让仙门再次伟大",
+    "dir": "让仙门再次伟大"
+  },
+  {
+    "title": "仙业",
+    "dir": "仙业"
+  },
+  {
+    "title": "demo-novel",
+    "dir": "demo-novel"
+  }
 ]
